@@ -1,0 +1,10 @@
+INDEX VERSION 1.131+C:\Users\gumaf\exsws\.metadata\.plugins\org.eclipse.jdt.core
+684810630.index
+2983735356.index
+560410029.index
+3336503466.index
+3249718451.index
+1488688393.index
+3065377829.index
+1574843208.index
+1607880976.index

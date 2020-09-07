@@ -1,0 +1,15 @@
+package entities;
+
+public class Room {
+	
+	private String name;
+	private String email;
+	private int number;
+	
+	public Room(String name, String email, int number) {
+		this.name = name;
+		this.email = email;
+		this.number = number;
+	}
+
+}

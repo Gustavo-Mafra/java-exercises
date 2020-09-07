@@ -1,0 +1,24 @@
+package application;
+
+import java.util.Scanner;
+import entities.Room;
+
+public class Program {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		int n = sc.nextInt();
+		Room[] room = new Room[n];
+		
+		for (int i=0; i<n; i++) {
+			sc.nextLine();
+			String name = sc.nextLine();
+			String email = sc.nextLine();
+			int number = sc.nextInt();
+			
+		}
+		
+		sc.close();
+	}
+
+}
